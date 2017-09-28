@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+body{
+    background-color: darkseagreen;
+}
+
+td{
+    width: 20px;
+    height: 20px;
+}
+
+.blank {
+    background-color:blank;
+}
+
+.snake{
+    background-image: url('../img/pokeballs%20(1).png');
+    border-radius: 50%;
+}
+
+.wall{
+    background-color: saddlebrown;
+}
+
+.fruit{
+    background-image: url("../img/Pikachu_(Smiling).png");
+}
+
+.squirt{
+    background-image: url("../img/sig-4663395.squirtle.gif");
+}
+
+.pred{
+    background-image: url("../img/sticker,375x360.png");
+}
+
+.blud{
+    background-image: url("../img/sticker,375x360.png");
+}
+
+.mew{
+    background-image: url("../img/sticker,375x360.png");
+}
